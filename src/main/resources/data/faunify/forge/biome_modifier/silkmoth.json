@@ -1,0 +1,10 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": "#faunify:has_silkmoth",
+  "spawners": {
+    "type": "faunify:silkmoth",
+    "weight": 16,
+    "minCount": 3,
+    "maxCount": 5
+  }
+}

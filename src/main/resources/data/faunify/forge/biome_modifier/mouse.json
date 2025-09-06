@@ -1,0 +1,10 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": "#faunify:has_mouse",
+  "spawners": {
+    "type": "faunify:mouse",
+    "weight": 8,
+    "minCount": 3,
+    "maxCount": 5
+  }
+}

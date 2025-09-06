@@ -1,0 +1,10 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": "#faunify:has_hedgehog",
+  "spawners": {
+    "type": "faunify:hedgehog",
+    "weight": 8,
+    "minCount": 2,
+    "maxCount": 3
+  }
+}

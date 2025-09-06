@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "xx",
+    "xx"
+  ],
+  "key": {
+    "x": {
+      "item": "faunify:fur"
+    }
+  },
+  "result": {
+    "item": "minecraft:leather",
+    "count": 1
+  }
+}

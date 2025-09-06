@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "xx",
+    "xx"
+  ],
+  "key": {
+    "x": {
+      "item": "faunify:dust_powder"
+    }
+  },
+  "result": {
+    "item": "faunify:dust_block",
+    "count": 1
+  }
+}

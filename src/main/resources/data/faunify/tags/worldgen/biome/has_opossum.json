@@ -1,0 +1,29 @@
+{
+  "values": [
+    "#minecraft:is_forest",
+    "minecraft:plains",
+    "minecraft:sunflower_plains",
+    "minecraft:meadow",
+    "minecraft:taiga",
+    {
+      "id": "#forge:is_forest",
+      "required": false
+    },
+    {
+      "id": "minecraft:plains",
+      "required": false
+    },
+    {
+      "id": "minecraft:sunflower_plains",
+      "required": false
+    },
+    {
+      "id": "minecraft:meadow",
+      "required": false
+    },
+    {
+      "id": "minecraft:taiga",
+      "required": false
+    }
+  ]
+}

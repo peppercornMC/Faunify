@@ -1,0 +1,77 @@
+{
+  "entity.faunify.weasel": "Doninha",
+  "entity.faunify.fennec": "Feneco",
+  "entity.faunify.chinchilla": "Chinchila",
+  "entity.faunify.hedgehog": "Ouriço",
+  "entity.faunify.ringtailcat": "Bassarisco",
+  "entity.faunify.mouse": "Camundongo",
+  "entity.faunify.silkmoth": "Traça De Seda",
+  "entity.faunify.leafsheep": "Ovelha-folha",
+  
+  "item.faunify.weasel_spawn_egg": "Ovo gerador de doninha",
+  "item.faunify.fennec_spawn_egg": "Ovo gerador de feneco",
+  "item.faunify.chinchilla_spawn_egg": "Ovo gerador de chinchila",
+  "item.faunify.hedgehog_spawn_egg": "Ovo gerador de ouriço",
+  "item.faunify.ringtailcat_spawn_egg": "Ovo gerador de bassarisco",
+  "item.faunify.mouse_spawn_egg": "Ovo gerador de camundongo",
+  "item.faunify.silkmoth_spawn_egg": "Ovo gerador de traça de seda",
+  "item.faunify.leafsheep_spawn_egg": "Ovo gerador de ovelha-folha",
+  
+  "block.faunify.dust_block": "Bloco de poeira",
+  "item.faunify.dust_powder": "Poeira",
+  "item.faunify.quill": "Pena de ouriço",
+  "item.faunify.fur": "Pelo",
+  "item.faunify.blowpipe": "Zarabatana",
+  "item.faunify.leaf_sheep_bucket": "Balde de Ovelha-folha",
+  
+  "faunify.subtitle.weasel_idle_1": "Doninha guinchando",
+  "faunify.subtitle.weasel_idle_2": "Doninha guinchando",
+  "faunify.subtitle.weasel_idle_3": "Doninha guinchando",
+  "faunify.subtitle.weasel_bite": "Doninha mordendo",
+  "faunify.subtitle.weasel_hurt": "Doninha ferida",
+  
+  "faunify.subtitle.fennec_idle_1": "Feneco regougando",
+  "faunify.subtitle.fennec_idle_2": "Feneco regougando",
+  "faunify.subtitle.fennec_hurt": "Feneco ferido",
+  "faunify.subtitle.fennec_alert": "Feneco alertas",
+  
+  "faunify.subtitle.chinchilla_idle_1": "Chinchila guinchando",
+  "faunify.subtitle.chinchilla_idle_2": "Chinchila guinchando",
+  "faunify.subtitle.chinchilla_idle_3": "Chinchila guinchando",
+  "faunify.subtitle.chinchilla_hurt": "Chinchila ferido",
+  
+  "faunify.subtitle.hedgehog_idle_1": "Ouriço fareja",
+  "faunify.subtitle.hedgehog_idle_2": "Ouriço fareja",
+  "faunify.subtitle.hedgehog_idle_3": "Ouriço fareja",
+  "faunify.subtitle.hedgehog_hurt": "Ouriço ferido",
+  
+  "faunify.subtitle.ringtailcat_idle_1": "Bassarisco guinchando",
+  "faunify.subtitle.ringtailcat_idle_2": "Bassarisco guinchando",
+  "faunify.subtitle.ringtailcat_hurt": "Bassarisco ferida",
+  "faunify.subtitle.ringtailcat_growl": "Bassarisco rosna",
+  "faunify.subtitle.ringtailcat_angry": "Bassarisco mordendo",
+  "faunify.subtitle.ringtailcat_shriek": "Bassarisco grita",
+  "faunify.subtitle.ringtailcat_alert": "Bassarisco alertas",
+  
+  "faunify.subtitle.mouse_idle_1": "Camundongo guinchando",
+  "faunify.subtitle.mouse_idle_2": "Camundongo guinchando",
+  "faunify.subtitle.mouse_hurt": "Camundongo ferido",
+  "faunify.subtitle.mouse_steal": "Camundongo rouba",
+  
+  "faunify.subtitle.silkmoth_hurt": "Traça De Seda ferida",
+  
+  "faunify.subtitle.leafsheep_hurt": "Ovelha-folha ferida",
+  
+  "faunify.faunify_tab": "Faunify",
+  
+  "advancement.faunify.tame_weasel.title": "O mais longo de todos",
+  "advancement.faunify.tame_weasel.description": "Domar uma Doninha",
+  "advancement.faunify.tame_chinchilla.title": "Amigo do pó",
+  "advancement.faunify.tame_chinchilla.description": "Domar uma Chinchila",
+  "advancement.faunify.tame_fennec.title": "Sou todo ouvidos",
+  "advancement.faunify.tame_fennec.description": "Domar uma Feneco",
+  "advancement.faunify.tame_hedgehog.title": "Manuseie com cuidado",
+  "advancement.faunify.tame_hedgehog.description": "Domar uma Ouriço",
+  "advancement.faunify.tame_ringtailcat.title": "Anel ao redor das rosas",
+  "advancement.faunify.tame_ringtailcat.description": "Domar uma Bassarisco"
+}

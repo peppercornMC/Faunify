@@ -1,0 +1,14 @@
+{
+  "values": [
+    "minecraft:meadow",
+    "minecraft:grove",
+    {
+      "id": "#minecraft:meadow",
+      "required": false
+    },
+    {
+      "id": "#minecraft:grove",
+      "required": false
+    }
+  ]
+}

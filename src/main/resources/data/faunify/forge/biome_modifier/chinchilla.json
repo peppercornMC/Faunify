@@ -1,0 +1,10 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": "#faunify:has_chinchilla",
+  "spawners": {
+    "type": "faunify:chinchilla",
+    "weight": 15,
+    "minCount": 2,
+    "maxCount": 2
+  }
+}

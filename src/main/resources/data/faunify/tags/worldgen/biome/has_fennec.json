@@ -1,0 +1,14 @@
+{
+  "values": [
+    "#forge:is_desert",
+    "#forge:is_dry",
+    {
+      "id": "#forge:is_desert",
+      "required": false
+    },
+    {
+      "id": "#forge:is_dry",
+      "required": false
+    }
+  ]
+}

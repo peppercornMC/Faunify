@@ -1,0 +1,308 @@
+{
+  "weasel_idle_1": {
+    "subtitle": "faunify.subtitle.weasel_idle_1",
+    "sounds": [
+    	{
+      		"name": "faunify:weasel_idle_1",
+      		"volume": 0.45
+      	}
+    ]
+  },
+  "weasel_idle_2": {
+    "subtitle": "faunify.subtitle.weasel_idle_2",
+    "sounds": [
+    	{
+      		"name": "faunify:weasel_idle_2",
+      		"volume": 0.45
+      	}
+    ]
+  },
+  "weasel_idle_3": {
+    "subtitle": "faunify.subtitle.weasel_idle_3",
+    "sounds": [
+    	{
+      		"name": "faunify:weasel_idle_3",
+      		"volume": 0.45
+      	}
+    ]
+  },
+  "weasel_bite": {
+    "subtitle": "faunify.subtitle.weasel_bite",
+    "sounds": [
+    	{
+      		"name": "faunify:weasel_bite",
+      		"volume": 0.5
+      	}
+    ]
+  },
+  "weasel_hurt": {
+    "subtitle": "faunify.subtitle.weasel_hurt",
+    "sounds": [
+    	{
+      		"name": "faunify:weasel_hurt",
+      		"volume": 0.45
+      	}
+    ]
+  },
+  "fennec_idle_1": {
+    "subtitle": "faunify.subtitle.fennec_idle_1",
+    "sounds": [
+    	{
+      		"name": "faunify:fennec_idle_1",
+      		"volume": 0.8
+      	}
+    ]
+  },
+  "fennec_idle_2": {
+    "subtitle": "faunify.subtitle.fennec_idle_2",
+    "sounds": [
+    	{
+      		"name": "faunify:fennec_idle_2",
+      		"volume": 0.8
+      	}
+    ]
+  },
+  "fennec_hurt": {
+    "subtitle": "faunify.subtitle.fennec_hurt",
+    "sounds": [
+    	{
+      		"name": "faunify:fennec_hurt",
+      		"volume": 0.8
+      	}
+    ]
+  },
+  "fennec_alert": {
+    "subtitle": "faunify.subtitle.fennec_alert",
+    "sounds": [
+    	{
+      		"name": "faunify:fennec_alert",
+      		"volume": 0.8
+      	}
+    ]
+  },
+  "chinchilla_idle_1": {
+    "subtitle": "faunify.subtitle.chinchilla_idle_1",
+    "sounds": [
+    	{
+      		"name": "faunify:chinchilla_idle_1",
+      		"volume": 0.7
+      	}
+    ]
+  },
+  "chinchilla_idle_2": {
+    "subtitle": "faunify.subtitle.chinchilla_idle_2",
+    "sounds": [
+    	{
+      		"name": "faunify:chinchilla_idle_2",
+      		"volume": 0.7
+      	}
+    ]
+  },
+  "chinchilla_idle_3": {
+    "subtitle": "faunify.subtitle.chinchilla_idle_3",
+    "sounds": [
+    	{
+      		"name": "faunify:chinchilla_idle_3",
+      		"volume": 0.7
+      	}
+    ]
+  },
+  "chinchilla_hurt": {
+    "subtitle": "faunify.subtitle.chinchilla_hurt",
+    "sounds": [
+    	{
+      		"name": "faunify:chinchilla_hurt",
+      		"volume": 0.5
+      	}
+    ]
+  },
+  "hedgehog_idle_1": {
+    "subtitle": "faunify.subtitle.hedgehog_idle_1",
+    "sounds": [
+    	{
+      		"name": "faunify:hedgehog_idle_1",
+      		"volume": 0.9
+      	}
+    ]
+  },
+  "hedgehog_idle_2": {
+    "subtitle": "faunify.subtitle.hedgehog_idle_2",
+    "sounds": [
+    	{
+      		"name": "faunify:hedgehog_idle_2",
+      		"volume": 0.9
+      	}
+    ]
+  },
+  "hedgehog_idle_3": {
+    "subtitle": "faunify.subtitle.hedgehog_idle_3",
+    "sounds": [
+    	{
+      		"name": "faunify:hedgehog_idle_3",
+      		"volume": 0.9
+      	}
+    ]
+  },
+  "hedgehog_hurt": {
+    "subtitle": "faunify.subtitle.hedgehog_hurt",
+    "sounds": [
+    	{
+      		"name": "faunify:hedgehog_hurt",
+      		"volume": 0.9
+      	}
+    ]
+  },
+  "ringtailcat_idle_1": {
+    "subtitle": "faunify.subtitle.ringtailcat_idle_1",
+    "sounds": [
+    	{
+      		"name": "faunify:ringtailcat_idle_1",
+      		"volume": 0.9
+      	}
+    ]
+  },
+  "ringtailcat_idle_2": {
+    "subtitle": "faunify.subtitle.ringtailcat_idle_2",
+    "sounds": [
+    	{
+      		"name": "faunify:ringtailcat_idle_2",
+      		"volume": 0.9
+      	}
+    ]
+  },
+  "ringtailcat_hurt": {
+    "subtitle": "faunify.subtitle.ringtailcat_hurt",
+    "sounds": [
+    	{
+      		"name": "faunify:ringtailcat_hurt",
+      		"volume": 0.9
+      	}
+    ]
+  },
+  "ringtailcat_angry": {
+    "subtitle": "faunify.subtitle.ringtailcat_angry",
+    "sounds": [
+    	{
+      		"name": "faunify:ringtailcat_angry",
+      		"volume": 0.9
+      	}
+    ]
+  },
+  "ringtailcat_growl": {
+    "subtitle": "faunify.subtitle.ringtailcat_growl",
+    "sounds": [
+    	{
+      		"name": "faunify:ringtailcat_growl",
+      		"volume": 0.9
+      	}
+    ]
+  },
+  "ringtailcat_shriek": {
+    "subtitle": "faunify.subtitle.ringtailcat_shriek",
+    "sounds": [
+    	{
+      		"name": "faunify:ringtailcat_shriek",
+      		"volume": 0.9
+      	}
+    ]
+  },
+  "ringtailcat_alert": {
+    "subtitle": "faunify.subtitle.ringtailcat_alert",
+    "sounds": [
+    	{
+      		"name": "faunify:ringtailcat_alert",
+      		"volume": 1
+      	}
+    ]
+  },
+  "opossum_idle_1": {
+    "subtitle": "faunify.subtitle.opossum_idle_1",
+    "sounds": [
+    	{
+      		"name": "faunify:opossum_idle_1",
+      		"volume": 0.55
+      	}
+    ]
+  },
+  "opossum_idle_2": {
+    "subtitle": "faunify.subtitle.opossum_idle_2",
+    "sounds": [
+    	{
+      		"name": "faunify:opossum_idle_2",
+      		"volume": 0.55
+      	}
+    ]
+  },
+  "opossum_hurt": {
+    "subtitle": "faunify.subtitle.opossum_hurt",
+    "sounds": [
+    	{
+      		"name": "faunify:opossum_hurt",
+      		"volume": 0.55
+      	}
+    ]
+  },
+  "opossum_angry": {
+    "subtitle": "faunify.subtitle.opossum_angry",
+    "sounds": [
+    	{
+      		"name": "faunify:opossum_angry",
+      		"volume": 0.55
+      	}
+    ]
+  },
+  "mouse_idle_1": {
+    "subtitle": "faunify.subtitle.mouse_idle_1",
+    "sounds": [
+    	{
+      		"name": "faunify:mouse_idle_1",
+      		"volume": 0.8
+      	}
+    ]
+  },
+  "mouse_idle_2": {
+    "subtitle": "faunify.subtitle.mouse_idle_2",
+    "sounds": [
+    	{
+      		"name": "faunify:mouse_idle_2",
+      		"volume": 0.8
+      	}
+    ]
+  },
+  "mouse_hurt": {
+    "subtitle": "faunify.subtitle.mouse_hurt",
+    "sounds": [
+    	{
+      		"name": "faunify:mouse_hurt",
+      		"volume": 0.9
+      	}
+    ]
+  },
+  "mouse_steal": {
+    "subtitle": "faunify.subtitle.mouse_steal",
+    "sounds": [
+    	{
+      		"name": "faunify:mouse_steal",
+      		"volume": 0.9
+      	}
+    ]
+  },
+  "silkmoth_hurt": {
+    "subtitle": "faunify.subtitle.silkmoth_hurt",
+    "sounds": [
+    	{
+      		"name": "faunify:silkmoth_hurt",
+      		"volume": 0.8
+      	}
+    ]
+  },
+  "leafsheep_hurt": {
+    "subtitle": "faunify.subtitle.leafsheep_hurt",
+    "sounds": [
+    	{
+      		"name": "faunify:leafsheep_hurt",
+      		"volume": 0.8
+      	}
+    ]
+  }
+}

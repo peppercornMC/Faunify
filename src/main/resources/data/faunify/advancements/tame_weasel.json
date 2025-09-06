@@ -1,0 +1,31 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:rabbit"
+    },
+    "title": {
+      "translate": "advancement.faunify.tame_weasel.title"
+    },
+    "description": {
+      "translate": "advancement.faunify.tame_weasel.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "minecraft:husbandry/tame_an_animal",
+  "criteria": {
+    "tame_weasel": {
+      "trigger": "minecraft:tame_animal",
+      "conditions": {
+        "entity": {
+          "type": "faunify:weasel"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "experience": 50
+  }
+}

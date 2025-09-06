@@ -1,0 +1,77 @@
+{
+  "entity.faunify.weasel": "イタチ",
+  "entity.faunify.fennec": "フェネック",
+  "entity.faunify.chinchilla": "チンチラ",
+  "entity.faunify.hedgehog": "ハリネズミ",
+  "entity.faunify.ringtail_cat": "カコミスル",
+  "entity.faunify.mouse": "ネズミ",
+  "entity.faunify.silkmoth": "カイコ",
+  "entity.faunify.leafsheep": "叶羊",
+  
+  "item.faunify.weasel_spawn_egg": "イタチのスポーンエッグ",
+  "item.faunify.fennec_spawn_egg": "ネックのスポーンエッグ",
+  "item.faunify.chinchilla_spawn_egg": "チンチラのスポーンエッグ",
+  "item.faunify.hedgehog_spawn_egg": "ハリネズミのスポーンエッグ",
+  "item.faunify.ringtail_cat_spawn_egg": "カコミスルのスポーンエッグ",
+  "item.faunify.mouse_spawn_egg": "ネズミのスポーンエッグ",
+  "item.faunify.silkmoth_spawn_egg": "カイコのスポーンエッグ",
+  "item.faunify.leafsheep_spawn_egg": "叶羊のスポーンエッグ",
+  
+  "block.faunify.dust_block": "埃ブロック",
+  "item.faunify.dust_powder": "埃",
+  "item.faunify.quill": "ハリネズミトゲ",
+  "item.faunify.fur": "毛皮",
+  "item.faunify.blowpipe": "吹き矢",
+  "item.faunify.leaf_sheep_bucket": "バケツ1杯の叶羊",
+  
+  "faunify.subtitle.weasel_idle_1": "イタチ鳴く",
+  "faunify.subtitle.weasel_idle_2": "イタチ泣き言を言う",
+  "faunify.subtitle.weasel_idle_3": "イタチ鳴く",
+  "faunify.subtitle.weasel_bite": "イタチ攻撃をする",
+  "faunify.subtitle.weasel_hurt": "イタチダメージを受ける",
+  
+  "faunify.subtitle.fennec_idle_1": "フェネックの鳴き声",
+  "faunify.subtitle.fennec_idle_2": "フェネックの鳴き声",
+  "faunify.subtitle.fennec_hurt": "フェネックダメージを受ける",
+  "faunify.subtitle.fennec_alert": "フェネックが叫ぶ",
+  
+  "faunify.subtitle.chinchilla_idle_1": "チンチラが鳴く",
+  "faunify.subtitle.chinchilla_idle_2": "チンチラが鳴く",
+  "faunify.subtitle.chinchilla_idle_3": "チンチラが鳴く",
+  "faunify.subtitle.chinchilla_hurt": "チンチラダメージを受ける",
+  
+  "faunify.subtitle.hedgehog_idle_1": "ハリネズミが嗅ぐ",
+  "faunify.subtitle.hedgehog_idle_2": "ハリネズミが嗅ぐ",
+  "faunify.subtitle.hedgehog_idle_3": "ハリネズミが嗅ぐ",
+  "faunify.subtitle.hedgehog_hurt": "ハリネズミダメージを受ける",
+  
+  "faunify.subtitle.ringtailcat_idle_1": "カコミスル鳴く",
+  "faunify.subtitle.ringtailcat_idle_2": "カコミスル鳴く",
+  "faunify.subtitle.ringtailcat_hurt": "カコミスルダメージを受ける",
+  "faunify.subtitle.ringtailcat_growl": "カコミスが鳴く",
+  "faunify.subtitle.ringtailcat_angry": "カコミス攻撃をする",
+  "faunify.subtitle.ringtailcat_shriek": "カコミスが鳴く",
+  "faunify.subtitle.ringtailcat_alert": "カコミスルが叫ぶ",
+  
+  "faunify.subtitle.mouse_idle_1": "ネズミが鳴く",
+  "faunify.subtitle.mouse_idle_2": "ネズミが鳴く",
+  "faunify.subtitle.mouse_hurt": "ネズミダメージを受ける",
+  "faunify.subtitle.mouse_steal": "ネズミが盗む",
+  
+  "faunify.subtitle.silkmoth_hurt": "カイコダメージを受ける",
+  
+  "faunify.subtitle.leafsheep_hurt": "叶羊ダメージを受ける",
+  
+  "faunify.faunify_tab": "Faunify",
+  
+  "advancement.faunify.tame_weasel.title": "イタチごっこ",
+  "advancement.faunify.tame_weasel.description": "イタチを飼いならす",
+  "advancement.faunify.tame_chinchilla.title": "ホコリだらけ",
+  "advancement.faunify.tame_chinchilla.description": "チンチラを飼いならす",
+  "advancement.faunify.tame_fennec.title": "聞いてくれ",
+  "advancement.faunify.tame_fennec.description": "フェネックを飼いならす",
+  "advancement.faunify.tame_hedgehog.title": "取り扱い注意",
+  "advancement.faunify.tame_hedgehog.description": "ハリネズミを飼いならす",
+  "advancement.faunify.tame_ringtailcat.title": "フワフワとストライプ",
+  "advancement.faunify.tame_ringtailcat.description": "カコミスルを飼いならす"
+}

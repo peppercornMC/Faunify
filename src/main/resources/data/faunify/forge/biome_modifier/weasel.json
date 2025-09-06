@@ -1,0 +1,10 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": "#faunify:has_weasel",
+  "spawners": {
+    "type": "faunify:weasel",
+    "weight": 10,
+    "minCount": 2,
+    "maxCount": 3
+  }
+}

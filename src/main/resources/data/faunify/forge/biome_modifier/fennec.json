@@ -1,0 +1,10 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": "#faunify:has_fennec",
+  "spawners": {
+    "type": "faunify:fennec",
+    "weight": 5,
+    "minCount": 3,
+    "maxCount": 5
+  }
+}

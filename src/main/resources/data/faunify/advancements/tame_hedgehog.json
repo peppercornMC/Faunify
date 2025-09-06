@@ -1,0 +1,31 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:sweet_berries"
+    },
+    "title": {
+      "translate": "advancement.faunify.tame_hedgehog.title"
+    },
+    "description": {
+      "translate": "advancement.faunify.tame_hedgehog.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "minecraft:husbandry/tame_an_animal",
+  "criteria": {
+    "tame_hedgehog": {
+      "trigger": "minecraft:tame_animal",
+      "conditions": {
+        "entity": {
+          "type": "faunify:hedgehog"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "experience": 50
+  }
+}

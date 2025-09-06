@@ -1,0 +1,10 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": "#faunify:has_opossum",
+  "spawners": {
+    "type": "faunify:opossum",
+    "weight": 10,
+    "minCount": 2,
+    "maxCount": 2
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.pepper.faunify.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "faunify.refmap.json",
+  "mixins": [
+    "CatMixin",
+    "OcelotMixin",
+    "WolfMixin",
+    "FoxMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
