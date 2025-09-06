@@ -1,11 +1,13 @@
 # Gradle
 .gradle/
+gradle/
 build/
 out/
 classes/
 
 # Eclipse
 .metadata
+.eclipse/
 bin/
 tmp/
 *.tmp
@@ -37,6 +39,12 @@ local.properties
 # OS
 .DS_Store
 Thumbs.db
+.classpath
+.project
+runClient.launch
+runData.launch
+runGameTestServer.launch
+runServer.launch
 
 # Minecraft
 run/
